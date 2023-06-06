@@ -42,7 +42,7 @@ class TodoFragment : Fragment() {
         initClicks()
 
         getTasks()
-    }
+     }
 
     private fun initClicks() {
         binding.fabAdd.setOnClickListener {
