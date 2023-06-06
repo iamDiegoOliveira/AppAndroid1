@@ -11,7 +11,7 @@
     <string name="text_button_confirm">Confirmar</string>
     <string name="text_task_delete_sucess">Tarefa removida com sucesso.</string>
     <string name="text_task_update_sucess">Tarefa atualizada com sucesso.</string>
-
+ 
     <!--    Login Fragment-->
     <string name="text_btn_login_fragment">Login</string>
     <string name="text_recover_login_fragment">Recuperar conta</string>
