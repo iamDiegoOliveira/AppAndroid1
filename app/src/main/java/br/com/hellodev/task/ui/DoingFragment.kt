@@ -57,7 +57,7 @@ class DoingFragment : Fragment() {
                             if (task.status == 1) taskList.add(task)
                         }
 
-                        taskList.reverse()
+                         taskList.reverse()
                         initAdapter()
                     }
 
