@@ -12,5 +12,5 @@ data class Task(
 ) : Parcelable {
     init {
         this.id = FirebaseHelper.getDatabase().push().key ?: ""
-    }
+     }
 }
