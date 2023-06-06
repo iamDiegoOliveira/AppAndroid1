@@ -22,7 +22,7 @@ class ViewPagerAdapter(fragmentActivity: FragmentActivity) :
 
     override fun createFragment(position: Int): Fragment {
         return fragmentList[position]
-    }
+     }
 
     override fun getItemCount(): Int {
         return fragmentList.size
