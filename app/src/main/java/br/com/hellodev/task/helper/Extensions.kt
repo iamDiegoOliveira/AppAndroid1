@@ -36,4 +36,5 @@ fun Fragment.showBottomSheet(
 
     bottomSheetDialog.setContentView(bottomSheetBinding.root)
     bottomSheetDialog.show()
+    
 }
