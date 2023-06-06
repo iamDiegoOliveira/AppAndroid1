@@ -43,7 +43,7 @@ class FormTaskFragment : BaseFragment() {
         initListeners()
 
         getArgs()
-    }
+     }
 
     private fun getArgs() {
         args.task.let {
