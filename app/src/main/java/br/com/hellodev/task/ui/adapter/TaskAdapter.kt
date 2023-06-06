@@ -30,7 +30,7 @@ class TaskAdapter(
                 LayoutInflater.from(parent.context),
                 parent,
                 false
-            )
+             )
         )
     }
 
