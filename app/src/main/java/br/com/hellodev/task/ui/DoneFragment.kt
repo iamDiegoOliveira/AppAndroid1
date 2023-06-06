@@ -40,7 +40,7 @@ class DoneFragment : BaseFragment() {
         super.onViewCreated(view, savedInstanceState)
 
         getTasks()
-    }
+     }
 
     private fun getTasks() {
         FirebaseHelper
