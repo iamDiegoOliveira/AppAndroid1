@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/main_graph"
     app:startDestination="@id/splashFragment">
-
+ 
     <fragment
         android:id="@+id/splashFragment"
         android:name="br.com.hellodev.task.ui.SplashFragment"
