@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "254633637873",
+    "project_id": "projetokotlin-6836a",
+    "storage_bucket": "projetokotlin-6836a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254633637873:android:f6ab220f0afdb0535fb650",
+        "android_client_info": {
+          "package_name": "br.com.hellodev.task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254633637873-si2q54mk049nvfeb066s000kep55nq8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPJI2ZMd6eZXLoYYnt8rknOCfNf8AdEvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254633637873-si2q54mk049nvfeb066s000kep55nq8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
